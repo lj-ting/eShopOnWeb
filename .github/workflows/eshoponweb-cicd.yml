@@ -9,7 +9,7 @@ env:
   LOCATION: canadacentral
   TEMPLATE-FILE: infra/webapp.bicep
   SUBSCRIPTION-ID: 04a3153d-21ce-466e-9898-f988817b8aba
-  WEBAPP-NAME: eshoponweb-webapp-4af4b9c6-a7a1-43a1-b3ee-173f18dbb063
+  WEBAPP-NAME: eshoponweb-webapp-thisbetterwork
 
 
 jobs:
